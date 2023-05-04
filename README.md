@@ -1,4 +1,4 @@
-# Frontend Skills Test
+# Fullstack Skills Test
 
 ## Getting Started
 To get started, we suggest forking this repository and writing your code there. Alternatively, you can download the repository as a .zip file to set it up locally.
